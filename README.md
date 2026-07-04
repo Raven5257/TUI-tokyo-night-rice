@@ -1,8 +1,8 @@
 # TUI-tokyo-night-rice
 a simple tui based tokyo night rice!
 
-Components:
-Niri wm (wayland) '/n'
+###Components:
+Niri wm (wayland) 
 foot (terminal)
 rofi (app launcher/ dmenu)
 waybar (status bar)
@@ -15,7 +15,7 @@ rmpc (music player)
 btop++ (task manager)
 fastfetch (fetch tool)
 
-XDG-Desktop-Portal:
+###XDG-Desktop-Portal:
 xdg-desktop-portal-termfilechooser
 xdg-desktop-portal-luminous
 
