@@ -2,7 +2,7 @@
 a simple tui based tokyo night rice!
 
 Components:
-Niri wm (wayland)
+Niri wm (wayland) '/n'
 foot (terminal)
 rofi (app launcher/ dmenu)
 waybar (status bar)
